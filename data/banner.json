@@ -35,10 +35,10 @@
   ]
  ],
  "title": [
-  "Cybersecurity Tools",
-  ""
+  "Cybersecurity",
+  "Tools"
  ],
- "title_size": 88,
+ "title_size": 80,
  "sub1": "SCANNERS  |  SECRETS  |  MONITORING",
  "sub2": "HARDENING  |  APPSEC  |  LEARNING",
  "foot": "Open-source security tools, each checked for license and activity"
