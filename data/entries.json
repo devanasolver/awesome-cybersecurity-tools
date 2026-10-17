@@ -1,0 +1,434 @@
+[
+  {
+    "repo": "AFLplusplus/AFLplusplus",
+    "category": "appsec",
+    "description": "Fuzzing tool, the community-maintained AFL.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "anchore/syft",
+    "category": "appsec",
+    "description": "Generate a software bill of materials from images and filesystems.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "github/codeql",
+    "category": "appsec",
+    "description": "CodeQL queries and libraries for code analysis.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "google/oss-fuzz",
+    "category": "appsec",
+    "description": "Continuous fuzzing for open source software.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "PyCQA/bandit",
+    "category": "appsec",
+    "description": "Find common security issues in Python code.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-12"
+  },
+  {
+    "repo": "semgrep/semgrep",
+    "category": "appsec",
+    "description": "Lightweight static analysis for many languages.",
+    "license": "LGPL-2.1",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "SonarSource/sonarqube",
+    "category": "appsec",
+    "description": "Code quality and security analysis platform.",
+    "license": "LGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "aquasecurity/tfsec",
+    "category": "cloud",
+    "description": "Static analysis for Terraform. Now part of Trivy.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-03-25"
+  },
+  {
+    "repo": "bridgecrewio/checkov",
+    "category": "cloud",
+    "description": "Static code analysis for infrastructure as code.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "kubescape/kubescape",
+    "category": "cloud",
+    "description": "Kubernetes security platform with risk and compliance scanning.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "open-policy-agent/opa",
+    "category": "cloud",
+    "description": "General-purpose policy engine.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "prowler-cloud/prowler",
+    "category": "cloud",
+    "description": "Cloud security assessment tool for AWS, Azure, GCP and Kubernetes.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "aquasecurity/kube-bench",
+    "category": "harden",
+    "description": "Checks Kubernetes against the CIS benchmark.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-05"
+  },
+  {
+    "repo": "CISOfy/lynis",
+    "category": "harden",
+    "description": "Security auditing tool for Unix-based systems.",
+    "license": "GPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-16"
+  },
+  {
+    "repo": "dev-sec/ansible-collection-hardening",
+    "category": "harden",
+    "description": "Ansible roles for hardening operating systems and services.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-13"
+  },
+  {
+    "repo": "inspec/inspec",
+    "category": "harden",
+    "description": "Compliance and security testing framework.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-13"
+  },
+  {
+    "repo": "OpenSCAP/openscap",
+    "category": "harden",
+    "description": "Standards-based compliance and vulnerability scanning.",
+    "license": "LGPL-2.1",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-13"
+  },
+  {
+    "repo": "digininja/DVWA",
+    "category": "learn",
+    "description": "Damn Vulnerable Web Application for practice.",
+    "license": "GPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-07"
+  },
+  {
+    "repo": "juice-shop/juice-shop",
+    "category": "learn",
+    "description": "Intentionally insecure web app for security training.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "OWASP/CheatSheetSeries",
+    "category": "learn",
+    "description": "Concise good practices for application security.",
+    "license": "CC-BY-SA-4.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "swisskyrepo/PayloadsAllTheThings",
+    "category": "learn",
+    "description": "List of payloads and bypasses for web security testing.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-08-27"
+  },
+  {
+    "repo": "WebGoat/WebGoat",
+    "category": "learn",
+    "description": "Deliberately insecure app for learning application security.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-13"
+  },
+  {
+    "repo": "crowdsecurity/crowdsec",
+    "category": "monitor",
+    "description": "Collaborative, open-source security engine that blocks bad actors.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "fail2ban/fail2ban",
+    "category": "monitor",
+    "description": "Daemon that bans hosts causing repeated authentication failures.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-10"
+  },
+  {
+    "repo": "falcosecurity/falco",
+    "category": "monitor",
+    "description": "Cloud-native runtime security.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "OISF/suricata",
+    "category": "monitor",
+    "description": "Network intrusion detection and prevention engine.",
+    "license": "GPL-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-09"
+  },
+  {
+    "repo": "osquery/osquery",
+    "category": "monitor",
+    "description": "SQL-powered operating system instrumentation and monitoring.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "SigmaHQ/sigma",
+    "category": "monitor",
+    "description": "Generic signature format for SIEM systems.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "wazuh/wazuh",
+    "category": "monitor",
+    "description": "Open-source security platform for threat detection and monitoring.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "zeek/zeek",
+    "category": "monitor",
+    "description": "Powerful network analysis framework.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "nmap/nmap",
+    "category": "network",
+    "description": "The network mapper and security scanner.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "projectdiscovery/httpx",
+    "category": "network",
+    "description": "Fast HTTP toolkit for probing web servers.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-14"
+  },
+  {
+    "repo": "projectdiscovery/subfinder",
+    "category": "network",
+    "description": "Passive subdomain discovery tool.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-14"
+  },
+  {
+    "repo": "rapid7/metasploit-framework",
+    "category": "network",
+    "description": "Penetration testing framework. Use only with permission.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "sqlmapproject/sqlmap",
+    "category": "network",
+    "description": "Automatic SQL injection detection tool. Use only on systems you are allowed to test.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "wireshark/wireshark",
+    "category": "network",
+    "description": "Network protocol analyzer.",
+    "license": "GPL-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "zaproxy/zaproxy",
+    "category": "network",
+    "description": "The ZAP web app scanner, for systems you are allowed to test.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "beemdevelopment/Aegis",
+    "category": "privacy",
+    "description": "Free, secure and open-source 2FA app for Android.",
+    "license": "GPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-06"
+  },
+  {
+    "repo": "bitwarden/server",
+    "category": "privacy",
+    "description": "Server for the Bitwarden password manager.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "keepassxreboot/keepassxc",
+    "category": "privacy",
+    "description": "Cross-platform community fork of KeePass.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "WireGuard/wireguard-tools",
+    "category": "privacy",
+    "description": "Command-line tools for WireGuard VPN.",
+    "license": "GPL-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-05-06"
+  },
+  {
+    "repo": "bitnami/sealed-secrets",
+    "category": "secrets",
+    "description": "Encrypt Kubernetes secrets so they are safe in git.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "getsops/sops",
+    "category": "secrets",
+    "description": "Simple and flexible tool for managing secrets in files.",
+    "license": "MPL-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-13"
+  },
+  {
+    "repo": "gitleaks/gitleaks",
+    "category": "secrets",
+    "description": "Find secrets in git repos and files.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-30"
+  },
+  {
+    "repo": "hashicorp/vault",
+    "category": "secrets",
+    "description": "Tool for managing secrets and protecting sensitive data. Source-available license.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "Infisical/infisical",
+    "category": "secrets",
+    "description": "Open-source secrets management platform.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "trufflesecurity/trufflehog",
+    "category": "secrets",
+    "description": "Find, verify and analyze leaked credentials.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "Yelp/detect-secrets",
+    "category": "secrets",
+    "description": "Enterprise-friendly way of detecting secrets in code.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-04-02"
+  },
+  {
+    "repo": "anchore/grype",
+    "category": "vuln",
+    "description": "Vulnerability scanner for container images and filesystems.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "category": "vuln",
+    "description": "Scanner for vulnerabilities, misconfigurations and secrets in containers and code.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "google/osv-scanner",
+    "category": "vuln",
+    "description": "Vulnerability scanner using the OSV database.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "greenbone/openvas-scanner",
+    "category": "vuln",
+    "description": "Open-source vulnerability scanner.",
+    "license": "GPL-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "OWASP/Nettacker",
+    "category": "vuln",
+    "description": "Automated penetration testing and information gathering framework.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "projectdiscovery/nuclei",
+    "category": "vuln",
+    "description": "Fast vulnerability scanner based on templates.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  }
+]

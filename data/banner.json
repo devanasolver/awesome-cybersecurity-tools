@@ -1,0 +1,45 @@
+{
+ "tile_words": [
+  "SCAN",
+  "CVE",
+  "PATCH",
+  "SECRETS",
+  "SIEM",
+  "HARDEN",
+  "LOGS",
+  "FUZZ",
+  "SBOM",
+  "AUDIT",
+  "TLS",
+  "IAM",
+  "EDR",
+  "TRIAGE",
+  "RECON",
+  "SANDBOX"
+ ],
+ "gradient": [
+  [
+   30,
+   110,
+   200
+  ],
+  [
+   150,
+   60,
+   200
+  ],
+  [
+   235,
+   120,
+   40
+  ]
+ ],
+ "title": [
+  "Cybersecurity Tools",
+  ""
+ ],
+ "title_size": 88,
+ "sub1": "SCANNERS  |  SECRETS  |  MONITORING",
+ "sub2": "HARDENING  |  APPSEC  |  LEARNING",
+ "foot": "Open-source security tools, each checked for license and activity"
+}
